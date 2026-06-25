@@ -493,6 +493,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Platforms for orchestrating, transforming, and managing data pipelines. Enables AI agents to interact with complex ETL/ELT workflows, unify disparate data sources, and drive automated data operations across cloud and hybrid environments.
 
 - <img height="12" width="12" src="https://connection.keboola.com/favicon.ico" alt="Keboola Logo" /> **[Keboola](https://github.com/keboola/keboola-mcp-server)**<sup><sup>⭐</sup></sup> - Build robust data workflows, integrations, and analytics on a single intuitive platform.
+- <img height="12" width="12" src="https://steep.app/favicon.ico" alt="Steep Logo" /> **[Steep](https://github.com/SteepHq/steep-mcp)**<sup><sup>⭐</sup></sup> - Query your governed Steep semantic layer — metrics (with date ranges and breakdowns), targets, entities, modules, reports, and workspace members. Remote, OAuth, read-only.
 
 <br />
 
